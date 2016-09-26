@@ -1,0 +1,6 @@
+[17-Jun-2016 09:30:58 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/smartonn/public_html/blog/wp-content/themes/twentysixteen/index.php on line 17
+[17-Jun-2016 09:30:59 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/smartonn/public_html/blog/wp-content/themes/twentysixteen/index.php on line 17
+[17-Jun-2016 09:32:02 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/smartonn/public_html/blog/wp-content/themes/twentysixteen/index.php on line 17
+[17-Jun-2016 09:32:02 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/smartonn/public_html/blog/wp-content/themes/twentysixteen/index.php on line 17
+[17-Jun-2016 09:32:28 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/smartonn/public_html/blog/wp-content/themes/twentysixteen/index.php on line 17
+[17-Jun-2016 09:32:29 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/smartonn/public_html/blog/wp-content/themes/twentysixteen/index.php on line 17

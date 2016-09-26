@@ -1,0 +1,5 @@
+[31-Mar-2016 14:56:15 Etc/GMT] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead in /home/smartonn/public_html/contactus.php on line 19
+[31-Mar-2016 15:25:47 Etc/GMT] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead in /home/smartonn/public_html/contactus.php on line 19
+[31-Mar-2016 15:26:06 Etc/GMT] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead in /home/smartonn/public_html/contactus.php on line 19
+[31-Mar-2016 15:27:06 Etc/GMT] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead in /home/smartonn/public_html/contactus.php on line 19
+[01-Apr-2016 11:39:04 Etc/GMT] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead in /home/smartonn/public_html/contactus.php on line 19
