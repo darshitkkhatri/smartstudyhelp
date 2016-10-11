@@ -35,7 +35,7 @@
                   <nav class="navbar navbar-default  mega-menu clearfix">
                       <div class="navbar-header">
                           <a href="#menuu" id="toggle-sidebar"><i class="ti-menu-alt"></i></a><!--this btn for mobile nav-->
-                          <a class="navbar-brand" href="#"><img src="/blog/wp-content/themes/twentysixteen/ssh/img/logo.png" alt=""></a>
+                          <a class="navbar-brand" href="/"><img src="/blog/wp-content/themes/twentysixteen/ssh/img/logo.png" alt=""></a>
                       </div>
 
                       <div id="navbar" class="navbar-collapse collapse">
@@ -92,36 +92,35 @@
       </header><!-- End header -->
 	
     <!--  ================== start mobile menu  ==================== -->
-    <nav id="menuu">
-        <ul>
-            
+            <nav id="menuu">
+                <ul>
+                    
 
-            <li><a href="#">Home</a>
-                
-            </li>
+<li><a href="index.html">Home</a>
+                        
+                    </li>
 
-            <li><a href="#">About Us </a>
-                
-            </li>
+                    <li><a href="about.html">About Us </a>
+                        
+                    </li>
 
-            <li><a href="#">Services</a>
-                
-            </li>
+                    <li><a href="services.html">Services</a>
+                        
+                    </li>
 
-            <li><a href="#">Payment</a>
-                
-            </li>
+                    <li><a href="payment.html">Payment</a>
+                        
+                    </li>
 
-            <li><a href="#">Contact Us</a>
-                
-            </li>
-            <li><a href="#">Blog</a>
-                
-            </li>
+                    <li><a href="contactus.html">Contact Us</a>
+                        
+                    </li>
+                    <li><a href="/blog">Blog</a>
+                        
+                    </li>
 
-        </ul>
-    </nav>
-
+                </ul>
+            </nav>
     <!--  ================== End mobile menu  ==================== -->
 	
 	

@@ -3919,6 +3919,52 @@ p > video {
 }
 
 
+.mailus{
+    background: red none repeat scroll 0 0;
+     border: 1px solid red;
+     color: #fff;
+     height: 30px;
+     padding: 3px 10px 0 10px;
+     position: fixed;
+     right: 10px;
+     top: 389px;
+     width: 76px;
+     z-index: 1000;
+}
+.mailus span {
+	display: none;
+}
+.mailus:hover {
+	width: 340px;
+}
+.mailus:hover span{
+	display: inline-block;
+}
+.mailus:hover span a{
+	color: #fff;
+	display: inline;
+}
+
+.socialite{
+     color: #fff;
+     height: 30px;
+     padding: 3px 10px 0 10px;
+     position: fixed;
+     right: 10px;
+     top: 330px;
+     width: 76px;
+     z-index: 1000;
+}
+.socialite div{
+	padding:7px 0;
+}
+
 /* custome */
 
 #page{ margin-top:125px;}
+
+@media (min-width: 200px) and (max-width: 980px) {
+
+#toggle-sidebar{ display:block;}
+
+}

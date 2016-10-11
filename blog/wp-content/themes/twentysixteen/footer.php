@@ -33,6 +33,9 @@
             <footer class="bottom-footer">
                 <p>Copyright SmartStudyHelp 2016. All Rights Reserved</p>
             </footer>
+			<div class="socialite">
+				<div class='text-right'><a target="_blank" href="http://www.facebook.com/smartstudyhelp"><img src="/img/ic-facebook.png"></a></div>
+			</div>
 		<div class="mailus">Mail Us<span><a href="mailto:support@smartstudyhelp.com"> : support@smartstudyhelp.com</a></span></div>
 		
 	</div><!-- .site-inner -->
