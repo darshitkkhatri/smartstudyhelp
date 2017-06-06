@@ -83,6 +83,7 @@
                                      <li class="dropdown yamm-drop"><a href="/blog" data-toggle="dropdown" class="active dropdown-toggle">Blog</a>
                                         
                                     </li>
+                                     <li class="dropdown yamm-drop"><a href="/question-answer/" data-toggle="dropdown" class="active dropdown-toggle">Q&A</a>
 
                                 </ul>
                       </div><!--/.nav-collapse -->
