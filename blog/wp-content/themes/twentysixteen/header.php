@@ -118,7 +118,8 @@
                     <li><a href="/blog">Blog</a>
                         
                     </li>
-
+                    <li><a href="/question-answer/">Q&A</a>                      
+                    </li>
                 </ul>
             </nav>
     <!--  ================== End mobile menu  ==================== -->

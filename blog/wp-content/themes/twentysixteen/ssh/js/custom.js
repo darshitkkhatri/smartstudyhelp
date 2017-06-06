@@ -55,11 +55,6 @@
                     'title',
                     'close'
                 ]
-            }, {
-                position: 'bottom',
-                content: [
-                    '<a href="#" target="_blank">buy now</a>'
-                ]
             }
         ]
     });
